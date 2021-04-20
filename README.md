@@ -42,7 +42,7 @@ Recorda colocar los siguientes archivos junto a tus escenarios de Coppelia Sim: 
 ./programming/remoteApiBindings/lib/lib/
 ```
 
-En mi caso se utilizo el lenguaje de programación Python y se utilizo Kubuntu |8_04.
+En mi caso se utilizo el lenguaje de programación Python y se utilizo Kubuntu 18_04.
 
 ## Licencia
 Este proyecto tiene licencia MIT.
