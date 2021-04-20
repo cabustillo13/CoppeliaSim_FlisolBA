@@ -44,5 +44,18 @@ Recorda colocar los siguientes archivos junto a tus escenarios de Coppelia Sim: 
 
 En mi caso se utilizó el lenguaje de programación Python en el sistema operativo Kubuntu 18_04.
 
+## Configuración puerto de comunicación Coppelia Sim - Jupyter Notebook
+Sí deseas colocar otro puerto que el propuesto (port: 19999), debes hacer lo siguiente:
+
+1) Busca al elemento principal de tu entorno de Coppelia Sim, que contiene la configuración general.
+(en este caso es MTB_Robot), selecciona el *pergamino blanco o script* y dale click.<br>
+![configPort0](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/configPort.jpg)
+
+2) Reemplaza el valor 19999 por el valor que deseas (procura cerciorarte que el puerto ingresado no esté siendo ocupado por otro servicio).<br>
+![configPort1](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/configPort1.jpg)
+
+3) Guarda los cambios realizados. Ve a *File >> Save Scene*.<br>
+![configPort2](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/configPort2.jpg)
+
 ## Licencia
 Este proyecto tiene licencia MIT.
