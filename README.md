@@ -30,11 +30,17 @@ Los apuntes se encuentran acá: ![PDF](https://github.com/cabustillo13/CoppeliaS
 
 ## Configuración API 
 Recorda colocar los siguientes archivos junto a tus escenarios de Coppelia Sim: *sim.py*, *simConst.py* y *remoteApi.so*. 
+<br>Deben posicionarse en la carpeta donde descargaste Coppelia Sim y buscar los archivos en los siguientes paths o routes.
 
 - **sim.py** y **simConst.py** (depende del lenguaje de programación a usar) se encuentra en: 
-<br>*./programming/remoteApiBindings/python/python/*
+```
+./programming/remoteApiBindings/python/python/
+```
+
 - **remoteApi.so** (depende del sistema operativo) se encuentra en: 
-<br>*./programming/remoteApiBindings/lib/lib/*
+```
+./programming/remoteApiBindings/lib/lib/
+```
 
 ## Licencia
 Este proyecto tiene licencia MIT.
