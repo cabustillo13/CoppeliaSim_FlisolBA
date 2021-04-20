@@ -52,10 +52,10 @@ Sí deseas colocar otro puerto que el propuesto (port: 19999), debes hacer lo si
 ![configPort0](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/configPort.jpg)
 
 2) Reemplaza el valor 19999 por el valor que deseas (procura cerciorarte que el puerto ingresado no esté siendo ocupado por otro servicio).<br>
-![configPort1](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/configPort1.jpg)
+![configPort1](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/configPort2.jpg)
 
 3) Guarda los cambios realizados. Ve a *File >> Save Scene*.<br>
-![configPort2](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/configPort2.jpg)
+![configPort2](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/configPort1.jpg)
 
 ## Licencia
 Este proyecto tiene licencia MIT.
