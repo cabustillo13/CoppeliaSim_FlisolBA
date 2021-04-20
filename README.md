@@ -20,7 +20,7 @@
 </p>
 
 ## FLISoL
-Es el evento de difusión de Software Libre más grande en Latinoamérica y está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y aun personas que no poseen mucho conocimiento informático. 
+Es el evento de difusión de Software Libre más grande en Latinoamérica y está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y aún personas que no poseen mucho conocimiento informático. 
 ![Link al evento](https://eventol.flisol.org.ar/events/flisol-ba/)
 
 ## Descripción de la charla
@@ -42,7 +42,7 @@ Recorda colocar los siguientes archivos junto a tus escenarios de Coppelia Sim: 
 ./programming/remoteApiBindings/lib/lib/
 ```
 
-En mi caso se utilizo el lenguaje de programación Python y se utilizo Kubuntu 18_04.
+En mi caso se utilizó el lenguaje de programación Python en el sistema operativo Kubuntu 18_04.
 
 ## Licencia
 Este proyecto tiene licencia MIT.
