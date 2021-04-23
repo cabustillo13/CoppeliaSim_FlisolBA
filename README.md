@@ -21,12 +21,12 @@
 
 ## FLISoL
 Es el evento de difusión de Software Libre más grande en Latinoamérica y está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y aún personas que no poseen mucho conocimiento informático. 
-![Link al evento](https://eventol.flisol.org.ar/events/flisol-ba/)
+[Link al evento](https://eventol.flisol.org.ar/events/flisol-ba/)
 
 ## Descripción de la charla
 Probar, testear, romper, modificar y crear grandes proyectos de robótica con Coppelia Sim + Jupyter Notebook con **PYTHON**.
 
-Los apuntes se encuentran acá: ![PDF](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/FLISol_BA_2021.pdf) | ![Diapositivas](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/FLISol_BA_2021.odp) .
+Los apuntes se encuentran acá: [PDF](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/FLISol_BA_2021.pdf) | [Diapositivas](https://github.com/cabustillo13/CoppeliaSim_FlisolBA/blob/main/Recursos/FLISol_BA_2021.odp) .
 
 ## Configuración API 
 Recorda colocar los siguientes archivos junto a tus escenarios de Coppelia Sim: *sim.py*, *simConst.py* y *remoteApi.so*. 
